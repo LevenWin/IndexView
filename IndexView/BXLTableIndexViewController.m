@@ -70,6 +70,7 @@
                     @"Z",
                     @"#"];
     [self.tableView reloadData];
+    
     self.tableView.lw_indexArray = _indexArray;
 }
 
